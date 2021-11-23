@@ -21,10 +21,11 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Java-FA9D0B?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-356A98?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-631F74?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-00C7AE?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 <h3 align="left">Web</h3>
@@ -54,6 +55,7 @@
 <img src="https://img.shields.io/badge/MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/SQLServer-8A96A4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
 
 <h3 align="left">Tools</h3>
