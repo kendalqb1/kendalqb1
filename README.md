@@ -45,7 +45,9 @@
 
 <h3 align="left">Movil</h3>
 <p>
+<img src="https://img.shields.io/badge/Kotlin-ea820f?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Xamarin-3290d0?style=for-the-badge&logo=xamarin&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 </p>
