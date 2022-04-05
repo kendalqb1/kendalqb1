@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://cdn.pixabay.com/photo/2016/02/19/11/19/computer-1209641_960_720.jpg" alt="cover" />
+<img width="100%" height = "400px" src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Kendal Quesada</h1>
 <h3 align="center">Software Developer from Costa Rica</h3>
